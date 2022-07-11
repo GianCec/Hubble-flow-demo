@@ -10,7 +10,7 @@ function mousePressed(){
    emX=(mouseX-gridCX);
    emY=(mouseY-gridCY);
    t=0;
-   //bT[0].order(true);
+   bT[0].order(true);
   }
     
          for(let i=0; i<2;i++){
